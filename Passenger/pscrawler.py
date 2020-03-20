@@ -1,3 +1,5 @@
+import requests
+import pandas as pd
 class Crawler(object):
     def __init__(self):
         self.headers ={
